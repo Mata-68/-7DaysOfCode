@@ -16,3 +16,9 @@ if(numeroTreinta === stringTreinta) {
 } else {
     console.log('Las variables numeroTreinta y stringTreinta no tienen el mismo tipo')
 }
+
+if(numeroDiez == stringDiez){
+    console.log('Las variables numeroDiez y stringDiez tienen el mismo valor, pero tipo diferentes')
+} else {
+    console.log('Las variables numeroDiez y stringDiez no tienen el mismo valor')
+}
